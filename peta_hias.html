@@ -119,21 +119,21 @@
                         layer.setStyle({
                             fillColor: '#1f78b4',
                             color: '#232323',
-                            fillOpacity: 0.2,
+                            fillOpacity: 0.5,
                             weight: 1
                         });
                     } else if (jumlah > 51698 && jumlah <= 72133) {
                         layer.setStyle({
                             fillColor: '#1f78b4',
                             color: '#232323',
-                            fillOpacity: 0.2,
+                            fillOpacity: 0.5,
                             weight: 1
                         });
                     } else if (jumlah > 72134 && jumlah <= 131005) {
                         layer.setStyle({
                             fillColor: '#1f78b4',
                             color: '#232323',
-                            fillOpacity: 0.2,
+                            fillOpacity: 0.5,
                             weight: 1
                         });
                     }
@@ -224,6 +224,7 @@
                 '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
             }
         );
+        basemap4.addTo(map);
     
         var basemap5 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Copyright: &copy;2012 DeLorme'
