@@ -14,5 +14,11 @@
 <p>Link WEBGIS               : https://maureenarsa.github.io/pgweb-responsi/</p>
 
 <p>Tangkapan Layar WebGIS</p>
-![alt text](img/img1.png?raw=true)
+![Explore](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img1.png?raw=true)
+![Condition](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img4.png?raw=true)
+![Gardener](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img5.png?raw=true)
+![Steps](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img8.png?raw=true)
+![Production](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img6.png?raw=true)
+![Map](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img7.png?raw=true)
+![Contact](https://github.com/maureenarsa/pgweb-responsi/blob/main/img/img9.png?raw=true)
 <h3>WEBGIS OUR GARDEN</h3>
