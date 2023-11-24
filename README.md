@@ -7,7 +7,7 @@
 
 <p>Komponen Pembangun Produk : Library Leaflet JS, Bootstrap, Favicon, Google Web Fonts, Icon Font Stylesheet,</p> <p>Libraries Stylesheet, Customized Bootstrap Stylesheet, Bahasa HTML, CSS, serta PHP</p>
 <p>Sumber Data               : </p>
-<php>1. Kabupaten Dalam Angka Kabupaten Sleman Tahun 2023 (BPS)</php>
+<p>1. Kabupaten Dalam Angka Kabupaten Sleman Tahun 2023 (BPS)</p>
 <p>                            2. Geoportal Sleman</p>
 <p>                            3. Shapefile Kabupaten Sleman (Inageoportal)</p>
 <p>                            4. Titik Koordinat Persebaran Kebun (Google Maps)</p>
