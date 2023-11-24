@@ -13,4 +13,6 @@
 <p>                            4. Titik Koordinat Persebaran Kebun (Google Maps)</p>
 <p>Link WEBGIS               : https://maureenarsa.github.io/pgweb-responsi/</p>
 
+<p>Tangkapan Layar WebGIS</p>
+![explore](img1.png)
 <h3>WEBGIS OUR GARDEN</h3>
